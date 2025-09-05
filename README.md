@@ -1,2 +1,2 @@
-# Project-Databases-AuthenticationService
-This is the Authentication microservice for the instagram clone project
+# Project-Databases-UserService
+This is the USER microservice for the instagram clone
