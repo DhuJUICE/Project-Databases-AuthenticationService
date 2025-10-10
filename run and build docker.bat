@@ -1,0 +1,5 @@
+REM start cmd /k "docker build -t post-service ."
+REM start cmd /k "docker build -t feed-service ."
+REM start cmd /k "docker build -t user-service ."
+REM start cmd /k "docker build -t graph-service ."
+start cmd /k "docker build -t auth-service ."
